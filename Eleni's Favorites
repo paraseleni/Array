@@ -1,0 +1,4 @@
+# Array
+var x = ["blue", "white", "green"]
+for(var i=0; i<x. length; i++) { console.log (x[i]); }
+for(var i=0; i<x. length; i++) { console.log ("my #"+(i+1)+" choice is " + x[i]); }
